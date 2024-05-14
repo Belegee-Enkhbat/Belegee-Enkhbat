@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Belegdemberel ENkhbat</h1>
+<h1 align="center">Hi 👋, I'm Belgeee(Bek)</h1>
 <h3 align="center">Get sleep</h3>
 
 <h3 align="left">Connect with me:</h3>
