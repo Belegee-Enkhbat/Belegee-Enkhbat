@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Belegee</h1>
-<h3 align="center">A passionate Fullstack developer</h3>
+<h3 align="center">A passionate junior developer</h3>
 
 <div align="center">
 <h3 align="left">Languages and Tools:</h3>
